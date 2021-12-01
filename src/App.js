@@ -12,7 +12,7 @@ import Portfolio from './Pages/Portfolio/Portfolio';
 
 function App() {
   return (
-    <div className="body">
+    <div>
       <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />

@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "projectName":"Canvas",
+        "projectNameTile":"E-commerce",
+        "projectTitle":"MERN Stack Project",
+        "projectImage":[
+            "https://i.ibb.co/ym2YwSf/canvas-hero-sec.png",
+            "https://i.ibb.co/zb3TJpN/canvas-about-sec-690x515.png",
+            "https://i.ibb.co/PjnWzHz/canvas-headphone-product-690x515.png",
+            "https://i.ibb.co/CzQTrLX/canvas-myorder.png",
+            "https://i.ibb.co/HqFXxqP/canvas-manage-all-products.png"
+        ],
+        "projectDetails":[
+            "A modern, professional and sophisticated consultancy website template. If you are looking to speed up the process of establishing an online presence, do it with this site canvas. Users will be able to view their orders in the dashboard on the headphone related e-commerce website.",
+            "Other excellent features include sticky navigation, back to top button, testimonials and animated statistics. Users can rate the site, and the review will be displayed on the home page. Admin can add or remove products and manage all orders. Designed a headphone related website including login features."
+        ],
+        "techUsed":[
+            "React js",
+            "Material UI",
+            "MongoDB Atlas",
+            "Firebase",
+            "Node js",
+            "Express js",
+            "Heroku"
+        ]
+    }
+]
