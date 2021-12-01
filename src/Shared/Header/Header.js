@@ -12,6 +12,7 @@ const Header = () => {
                 <Nav className="ms-auto">
                     <Nav.Link as={NavLink} to="/home" className="text-white mx-auto">Home</Nav.Link>
                     <Nav.Link as={NavLink} to="/about" className="text-white mx-auto">About</Nav.Link>
+                    <Nav.Link as={NavLink} to="/portfolio" className="text-white mx-auto">Portfolio</Nav.Link>
                     <Nav.Link as={NavLink} to="/contact" className="text-white mx-auto">Contact</Nav.Link>
                 </Nav>
                 </Navbar.Collapse>
