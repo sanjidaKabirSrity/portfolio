@@ -21,7 +21,7 @@ const Contact = () => {
             <Header></Header>
             <Container className="py-5">
                 <div className="text-white text-center pt-5">
-                    <h2 style={{fontSize:"48px"}}><span className="textGulapi">Contact </span>Withe Me</h2>
+                    <h2 style={{fontSize:"48px"}}><span className="textGulapi">C</span>ontact With <span className="textGulapi">M</span>e</h2>
                     <p>My contact details are given below</p>
                 </div>
                 <Row className="pt-2 d-flex align-items-center reverse-flex">

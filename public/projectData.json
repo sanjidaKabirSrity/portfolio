@@ -4,6 +4,7 @@
         "projectName":"Canvas",
         "projectNameTile":"E-commerce",
         "projectTitle":"MERN Stack Project",
+        "projectFullImg":"https://i.ibb.co/2P8z4Y5/canvas.png",
         "projectImage":[
             "https://i.ibb.co/ym2YwSf/canvas-hero-sec.png",
             "https://i.ibb.co/zb3TJpN/canvas-about-sec-690x515.png",
@@ -23,6 +24,97 @@
             "Node js",
             "Express js",
             "Heroku"
+        ],
+        "link":[
+            {
+                "live":"https://canvas-headphone.web.app/",
+                "liveTitle":"Live Demo"
+            },
+            {
+                "live":"https://github.com/sanjidaKabirSrity/canva-headphone-react",
+                "liveTitle":"Client Code Link"
+            }
+            ,
+            {
+                "live":"https://github.com/sanjidaKabirSrity/canvas-headphone-server",
+                "liveTitle":"Server Code Link"
+            }
+        ]
+    }
+    ,
+    {
+        "id":2,
+        "projectName":"Travedust",
+        "projectNameTile":"Tourism Service",
+        "projectTitle":"MERN Stack Project",
+        "projectFullImg":"https://i.ibb.co/t4TbfDC/travedust.png",
+        "projectImage":[
+            "https://i.ibb.co/qBNv3sD/travedust-hero-sec1-690x515.png",
+            "https://i.ibb.co/BBP98ps/all-Torism-690x515.png",
+            "https://i.ibb.co/848qY4Y/booking-Torism-690x515.png",
+            "https://i.ibb.co/r79S6YX/manage-torism-booking.png",
+            "https://i.ibb.co/njtc8vf/travedust-reg-690x515.png"
+        ],
+        "projectDetails":[
+            "Built an online service Tourism package booking website. Designed a Tourism related website including login features. Users can be booking their chosen tourism package. Users can make payments and cancel their bookings. Other excellent features include sticky navigation, back to top button, slider, and animated statistics.",
+            "A modern, professional and sophisticated consultancy website template. If you are looking to speed up the process of establishing an online presence, do it with this site Tourism."
+        ],
+        "techUsed":[
+            "React js",
+            "React Bootstrap",
+            "MongoDB Atlas",
+            "Firebase",
+            "Node js",
+            "Express js",
+            "Heroku"
+        ],
+        "link":[
+            {
+                "live":"https://travedust.web.app/",
+                "liveTitle":"Live Demo"
+            },
+            {
+                "live":"https://github.com/sanjidaKabirSrity/travedust-client-side",
+                "liveTitle":"Client Code Link"
+            }
+            ,
+            {
+                "live":"https://github.com/sanjidaKabirSrity/travedust-server",
+                "liveTitle":"Server Code Link"
+            }
+        ]
+    }
+    ,
+    {
+        "id":3,
+        "projectName":"Healthzia",
+        "projectNameTile":"Hospital Service",
+        "projectTitle":"Front-End Project",
+        "projectFullImg":"https://i.ibb.co/b7GbG5z/screencapture-healthzia-web-app-2021-12-01-13-48-07.png",
+        "projectImage":[
+            "https://i.ibb.co/hfn4Nk1/healthzia-hero-sec1-690x515.png",
+            "https://i.ibb.co/FBZHb8Q/doctors-690x515.png",
+            "https://i.ibb.co/qr7KLgk/healthzia-login-690x515.png"
+        ],
+        "projectDetails":[
+            "Designed a Healthcare-related website including login features. Users can learn more about the services. Compatible with all devices. Other excellent features include sticky navigation, back to top button, background vedio, and animated statistics.",
+            "A modern, professional and sophisticated consultancy website template. If you are looking to speed up the process of establishing an online presence, do it with this site."
+        ],
+        "techUsed":[
+            "React js",
+            "Tailwind",
+            "CSS3",
+            "Firebase"
+        ],
+        "link":[
+            {
+                "live":"https://healthzia.web.app/",
+                "liveTitle":"Live Demo"
+            },
+            {
+                "live":"https://github.com/sanjidaKabirSrity/healthzia",
+                "liveTitle":"Client Code Link"
+            }
         ]
     }
 ]
